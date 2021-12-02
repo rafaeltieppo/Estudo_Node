@@ -1,5 +1,6 @@
-const cors = require('cors');
+//Express seria o HttpServlet do java
 const express = require('express');
+const cors = require('cors');
 
 const app = express();
 
